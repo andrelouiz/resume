@@ -4,32 +4,31 @@
     border-radius: 50%;
     padding: 40px;
 }
-
 .imgdiv{
     position: absolute;
     top: 0;
     right: 0;
- 
 }
-
 .body{
     margin: 30px;
     font-family: 'EB Garamond', serif;
-    
 }
-#title{
-    size: 200%;
+.name{
+    font-size: 4rem;
+    padding: 0;
+    border: 0;
+    margin: 0;
 }
-
 .header{
    position: relative;
    text-align: left;
    display: inline-block;
+
+   
 }
 .education{
     position: relative;
 }
-
 .projects{
     position: relative;
 }
