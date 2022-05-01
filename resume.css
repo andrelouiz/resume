@@ -1,0 +1,40 @@
+#img {
+    max-width: 100%;
+    height: 150px;
+    border-radius: 50%;
+    padding: 40px;
+}
+
+.imgdiv{
+    background-color: aqua;
+    position: absolute;
+    top: 0;
+    right: 0;
+ 
+}
+
+.body{
+    margin: 30px;
+    font-family: 'Garamond', serif;
+    font-family: 'EB Garamond', serif;
+    
+}
+#title{
+    size: 200%;
+}
+
+.header{
+   position: relative;
+   text-align: left;
+   display: inline-block;
+}
+.education{
+    position: relative;
+}
+
+.projects{
+    position: relative;
+}
+
+
+
