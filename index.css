@@ -12,7 +12,16 @@
 .body{
     margin: 30px;
     font-family: 'EB Garamond', serif;
+    overflow: auto;
 }
+ h3{
+    padding : 0;
+    margin : 0;
+ }
+ h4{
+    padding : 0;
+    margin : 0;
+ }
 .name{
     font-size: 4rem;
     padding: 0;
